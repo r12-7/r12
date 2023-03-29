@@ -1,0 +1,11 @@
+﻿  源.c
+C:\Users\r12\Desktop\QG\QG工作室2022训练营第二周\队列\代码和头文件\LQueue\队列\队列\源.c(30,18): warning C4013: “malloc”未定义；假设外部返回 int
+C:\Users\r12\Desktop\QG\QG工作室2022训练营第二周\队列\代码和头文件\LQueue\队列\队列\源.c(30,43): warning C4312: “类型强制转换”: 从“int”转换到更大的“LinkQueue *”
+C:\Users\r12\Desktop\QG\QG工作室2022训练营第二周\队列\代码和头文件\LQueue\队列\队列\源.c(49,2): warning C4013: “free”未定义；假设外部返回 int
+C:\Users\r12\Desktop\QG\QG工作室2022训练营第二周\队列\代码和头文件\LQueue\队列\队列\源.c(76,41): warning C4312: “类型强制转换”: 从“int”转换到更大的“DataNode *”
+C:\Users\r12\Desktop\QG\QG工作室2022训练营第二周\队列\代码和头文件\LQueue\队列\队列\源.c(138,19): warning C4047: “函数”:“LinkQueue *”与“LinkQueue **”的间接级别不同
+C:\Users\r12\Desktop\QG\QG工作室2022训练营第二周\队列\代码和头文件\LQueue\队列\队列\源.c(138,17): warning C4024: “QueueEmpty”: 形参和实参 1 的类型不同
+C:\Users\r12\Desktop\QG\QG工作室2022训练营第二周\队列\代码和头文件\LQueue\队列\队列\源.c(145,41): warning C4312: “类型强制转换”: 从“int”转换到更大的“DataNode *”
+C:\Users\r12\Desktop\QG\QG工作室2022训练营第二周\队列\代码和头文件\LQueue\队列\队列\源.c(190,41): warning C4312: “类型强制转换”: 从“int”转换到更大的“ElemType *”
+C:\Users\r12\Desktop\QG\QG工作室2022训练营第二周\队列\代码和头文件\LQueue\队列\队列\源.c(155): warning C4715: “lenghtLinkQueue”: 不是所有的控件路径都返回值
+  队列.vcxproj -> C:\Users\r12\Desktop\QG\QG工作室2022训练营第二周\队列\代码和头文件\LQueue\队列\x64\Debug\队列.exe
